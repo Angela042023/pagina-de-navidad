@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+ }
+ body{
+    background-image: url(fondo.jpg);
+    margin: 0%;
+    padding: 0%;
+
+ }
+
+ .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+ }
+
+ .house{
+
+    background-color: aquamarine;   
+    padding: 3rem;
+    width: 20%;
+    height: 10%;
+    
+ }
+ .caja2{
+
+    background-color: rgb(255, 127, 127);   
+    padding: 3rem;
+    width: 20%;
+    height: 10%;
+    
+ }
+ .caja3{
+
+    background-color: rgb(56, 9, 244);   
+    padding: 3rem;
+    width: 20%;
+    height: 10%;
+    
+ }
+
+.caja4{
+   background-color: rgb(255, 255, 255);
+   padding: 3rem;
+   width: 60%;
+   height: 400px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+}
+.container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+  
+}
+
+.caja5{
+
+  background-color: rgb(244, 9, 9);   
+ 
+  width: 30%;
+  height: 200px;
+  
+  
+}
+.caja6{
+
+   background-color: rgb(232, 244, 9);   
+ 
+   width: 30%;
+   height: 200px;
+   
+   
+ }

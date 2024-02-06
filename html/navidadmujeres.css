@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+ }
+ body{
+    background-image: url(fondo.jpg);
+    margin: 0%;
+    padding: 0%;
+
+ }
+
+ .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+ }
+
+ .caja1{
+
+    background-color: rgb(236, 170, 170);   
+    padding: 3rem;
+    width: 20%;
+    height: 10%;
+    
+ }
+ .caja2{
+
+    background-color: rgb(136, 0, 255);   
+    padding: 3rem;
+    width: 20%;
+    height: 10%;
+    
+ }
+ .caja3{
+
+    background-color: rgb(6, 86, 51);   
+    padding: 3rem;
+    width: 20%;
+    height: 10%;
+    
+ }
+
+.caja4{
+   background-color: rgb(68, 245, 95);
+   padding: 3rem;
+   width: 60%;
+   height: 400px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+}
+.container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+  
+}
+
+.caja5{
+
+  background-color: rgb(244, 170, 9);   
+ 
+  width: 30%;
+  height: 200px;
+  
+  
+}
+.caja6{
+
+   background-color: rgb(18, 18, 18);   
+ 
+   width: 30%;
+   height: 200px;
+   
+   
+ }
